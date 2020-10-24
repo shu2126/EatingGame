@@ -1,0 +1,12 @@
+﻿  test.c
+c:\users\sjcho\onedrive\문서\visual studio 2015\projects\console_2\console_2\test.c(63): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\sjcho\onedrive\문서\visual studio 2015\projects\console_2\console_2\test.c(71): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\sjcho\onedrive\문서\visual studio 2015\projects\console_2\console_2\test.c(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\sjcho\onedrive\문서\visual studio 2015\projects\console_2\console_2\test.c(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\sjcho\onedrive\문서\visual studio 2015\projects\console_2\console_2\test.c(107): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  Console_2.vcxproj -> C:\Users\sjcho\onedrive\문서\visual studio 2015\Projects\Console_2\Debug\Console_2.exe
+  Console_2.vcxproj -> C:\Users\sjcho\onedrive\문서\visual studio 2015\Projects\Console_2\Debug\Console_2.pdb (Full PDB)
